@@ -31,9 +31,9 @@ All lectures will be given in person and live streamed on Zoom. The link to the 
 |:------------|:--------|:-------------------------------------------------------------------------------------|:----------------------------------:|
 | **Week 1**  | 22 Feb <br />23 Feb  |  Introduction + Building a simple neural classifier  <br />Neural LMs: word embeddings    [[slides][1s]]    |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
-| **Week 2**  |  1 Mar <br />2 Mar   |  Classical and Fixed-context Language Models <br />Recurrent Neural Networks                                |  Antoine Bosselut                  |
+| **Week 2**  |  1 Mar <br />2 Mar   |  Classical and Fixed-context Language Models <br />Recurrent Neural Networks              [[slides][2s]]    |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
-| **Week 3**  |  8 Mar <br />9 Mar   |  LSTMs and Sequence-to-sequence models <br />Theoretical properties of RNNs                                 |  Antoine Bosselut <br />Gail Weiss |
+| **Week 3**  |  8 Mar <br />9 Mar   |  LSTMs and Sequence-to-sequence models <br />Theoretical properties of RNNs               [[slides][3s]]    |  Antoine Bosselut <br />Gail Weiss |
 |             |                      |                                                                                                             |                                    |
 | **Week 4**  | 15 Mar <br />16 Mar  |  Attention + Transformers <br />Transformers                                                                |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
@@ -47,7 +47,7 @@ All lectures will be given in person and live streamed on Zoom. The link to the 
 |             |                      |                                                                                                             |                                    |
 | **Week 9**  | 19 Apr <br />20 Apr  |  In-Context Learning <br />                                                                                 |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
-| **Week 10** | 26 Apr <br />27 Apr  |  Scaling Laws + Model Compression <br />***No class***                                                      |  Antoine Bosselut <br />Reza Banaei     |
+| **Week 10** | 26 Apr <br />27 Apr  |  Scaling Laws + Model Compression <br />***No class***                                                      |  Antoine Bosselut <br />Reza Banaei  |
 |             |                      |                                                                                                             |                                    |
 | **Week 11** |  3 May <br />4 May   |  Ethics in NLP <br />Ethics in NLP                                                                          |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
@@ -57,7 +57,7 @@ All lectures will be given in person and live streamed on Zoom. The link to the 
 |             |                      |                                                                                                             |                                    |
 | **Week 14** | 24 May <br />25 May  |  Tokenization + Multilingual LMs  <br />***No class***                                                      |  Negar Foroutan                    |
 |             |                      |                                                                                                             |                                    |
-| **Week 15** | 31 May <br />1 Jun   |  Language & Vision <br />Language & Vision + Wrap-up                                                        |  Syrielle Montariol <br />Antoine Bosselut    |
+| **Week 15** | 31 May <br />1 Jun   |  Language & Vision <br />Language & Vision + Wrap-up                                                        |  Syrielle Montariol <br />Antoine Bosselut |
 
 <a name="exercises"></a>
 ## Exercise Schedule
@@ -109,14 +109,14 @@ Your grade in the course will be computed according to the following guidelines:
 ### Assignments (40%):
 There will be three assignments throughout the course. They will be released and due according to the following schedule:
 #### Assignment 1 (10%)
-- Released: 06.03.2023
-- Due: 24.03.2023
+- Released: 10 Mar 2023
+- Due: 24 Mar 2023
 #### Assignment 2 (15%)
-- Released: 03.27.2023
-- Due: 21.04.2023 
+- Released: 24 Mar 2023
+- Due: 7 Apr 2023 
 #### Assignment 3 (15%)
-- Released: 04.18.2023
-- Due: 05.05.2023
+- Released: 7 Apr 2023
+- Due: 28 Apr 2023
 
 Assignments will be released on Moodle and announced on Ed.
 
@@ -125,23 +125,23 @@ The project will involve using large-scale language models (100B+ parameters) an
 
 #### Proposal (5%):
 - For the proposal, students will be responsible for delivering a Project Plan for executing the goals of the project, as well as submitting a list of relevant literature, demonstrating they have identified academic papers that are relevant for each of the portions of the milestones of the project. Each student in the group should review one of these papers and submit it with Milestone 1.
-- Due: 04.21.2023
+- Due: 21 Apr 2023
 
 #### Milestone 1 (10%):
 - Exact parameters of Milestone 1 will be released in future weeks. 
-- Due: 05.05.2023
+- Due: 5 May 2023
 
 #### Milestone 2 (10%):
 - Exact parameters of Milestone 2 will be released in future weeks. 
-- Due: 05.19.2023
+- Due: 19 May 2023
 
 #### Milestone 3 (5%):
 - Exact parameters of Milestone 3 will be released in future weeks. 
-- Due: 06.04.2023
+- Due: 4 Jun 2023
 
 #### Final Deliverable (30%):
 - The final report, code, and date will be due on June 15th. Students are welcome to turn in their materials ahead of time on June 4th as soon as the semester ends.
-- Due: 06.15.2023
+- Due: 15 Jun 2023
 
 ### Late Days Policy
 All assignments and milestones are due at 11:59 PM on their due date. As we understand that circumstances can make it challenging to abide by these due dates, you will receive 6 late days over the course of the semester to be allocated to the assignments and project milestones as you see fit. No further extensions will be granted. The only exception to this rule is for the final report, code, and data. No extensions will be granted beyond June 15th.
@@ -158,6 +158,9 @@ Please contact us for any organizational questions or questions related to the c
 
 
 [1s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%201
+[2s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%202
+[3s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%203
+
 
 [1c]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%201%20-%20Word%20Embeddings
 
